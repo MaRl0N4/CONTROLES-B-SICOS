@@ -30,21 +30,6 @@ El proyecto consta de un solo archivo principal:
 - **Java Development Kit (JDK)**: Version 8 o superior.
 - **JavaFX**: Dependencias necesarias para ejecutar aplicaciones JavaFX.
 
-## Instalación y Ejecución
-
-1. Clona el repositorio a tu máquina local.
-    ```bash
-    git clone https://github.com/tuusuario/controles-basicos.git
-    ```
-2. Navega al directorio del proyecto.
-    ```bash
-    cd controles-basicos
-    ```
-3. Compila y ejecuta la aplicación.
-    ```bash
-    javac -d bin src/application/Main.java
-    java -cp bin application.Main
-    ```
 
 ## Capturas de Pantalla de la app 
 ![EJCUCIÓN APP](https://github.com/MaRl0N4/CONTROLES-B-SICOS/blob/2bd4224035d63348a115df7cbc0915c8dbffb14c/Captura%20de%20pantalla%20(453).png)
